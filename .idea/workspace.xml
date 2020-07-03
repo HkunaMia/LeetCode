@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1654877-6979-4a27-84b6-35983e501811" name="Default Changelist" comment="" />
+    <list default="true" id="f1654877-6979-4a27-84b6-35983e501811" name="Default Changelist" comment="LeetCode-06.16-2">
+      <change afterPath="$PROJECT_DIR$/src/NewCode/IntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NewCode/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +17,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NewCode/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NewCode/IntersectNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="101" column="42" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Leetcode/Offer61.java" />
-        <option value="$PROJECT_DIR$/src/Leetcode/IO_input_output.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/top1.java" />
         <option value="$PROJECT_DIR$/src/Leetcode/top4.java" />
         <option value="$PROJECT_DIR$/src/huawei/One.java" />
@@ -85,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/VIVO/One.java" />
         <option value="$PROJECT_DIR$/src/VIVO/Main.java" />
         <option value="$PROJECT_DIR$/src/VIVO/Three.java" />
+        <option value="$PROJECT_DIR$/src/NewCode/Node.java" />
+        <option value="$PROJECT_DIR$/src/NewCode/IntersectNode.java" />
       </list>
     </option>
   </component>
@@ -118,7 +145,7 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VIVO" type="462c0819:PsiDirectoryNode" />
+              <item name="NewCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +299,8 @@
       <workItem from="1591068995204" duration="5549000" />
       <workItem from="1591235422478" duration="841000" />
       <workItem from="1591514256459" duration="10539000" />
-      <workItem from="1592319225458" duration="305000" />
+      <workItem from="1592319225458" duration="541000" />
+      <workItem from="1592706548443" duration="3161000" />
     </task>
     <task id="LOCAL-00001" summary="LeetCode-06.16">
       <created>1592319428384</created>
@@ -281,16 +309,23 @@
       <option name="project" value="LOCAL" />
       <updated>1592319428384</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="LeetCode-06.16-2">
+      <created>1592319592122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592319592122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100276000" />
+    <option name="totallyTimeSpent" value="103673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28163266" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28734693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -305,7 +340,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32874355" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
@@ -326,23 +361,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="LeetCode-06.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-06.16" />
+    <MESSAGE value="LeetCode-06.16-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="LeetCode-06.16-2" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/huawei/StringPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/java/jdk-12/lib/src.zip!/java.desktop/javax/swing/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="46" column="17" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/Offer61.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -741,6 +763,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCode/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NewCode/IntersectNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="101" column="42" selection-start-line="101" selection-start-column="42" selection-end-line="101" selection-end-column="42" />
         </state>
       </provider>
     </entry>

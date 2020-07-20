@@ -36,7 +36,7 @@ public class top42 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String[] line = sc.nextLine().strip().split(" ");
+        String[] line = sc.nextLine().trim().split(" ");
         int[] arr = new int[line.length];
         for(int i=0;i<line.length;i++){
             arr[i] = Integer.parseInt(line[i]);

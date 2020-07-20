@@ -48,12 +48,12 @@ public class top4 {
     public static void main(String[] args) {
         top4 top4 = new top4();
         Scanner sc = new Scanner(System.in);
-        String[] s1 = sc.nextLine().strip().split(" ");
+        String[] s1 = sc.nextLine().trim().split(" ");
         int[] num1 = new int[s1.length];
         for (int i=0;i<s1.length;i++){
             num1[i] = Integer.parseInt(s1[i]);
         }
-        String[] s2 = sc.nextLine().strip().split(" ");
+        String[] s2 = sc.nextLine().trim().split(" ");
         int[] num2 = new int[s2.length];
         for (int i=0;i<s2.length;i++){
             num2[i] = Integer.parseInt(s2[i]);

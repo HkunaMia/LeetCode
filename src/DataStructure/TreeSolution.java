@@ -1,6 +1,7 @@
 package DataStructure;
 
 import org.omg.CORBA.PUBLIC_MEMBER;
+import org.omg.CORBA.TRANSACTION_MODE;
 
 import java.util.*;
 
@@ -63,7 +64,7 @@ public class TreeSolution {
     }
 
 
-    public ArrayList preOrder(TreeNode root){
+    public List<Integer> preOrder(TreeNode root){
         Stack<TreeNode> stack = new Stack<>();
         ArrayList<Integer> arrayList = new ArrayList<>();
         stack.push(root);
@@ -117,16 +118,35 @@ public class TreeSolution {
         return arrayList;
     }
 
+    public ArrayList bfs(TreeNode root){
+        ArrayList arrayList = new ArrayList();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        while (!queue.isEmpty()){
+            TreeNode node = queue.poll();
+            if(node.left!=null){
+                queue.offer(node.left);
+            }
+            if(node.right!=null){
+                queue.offer(node.right);
+            }
+            arrayList.add(node.data);
+        }
+        return arrayList;
+    }
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String line = in.nextLine();
         TreeSolution solution = new TreeSolution();
         TreeNode root = solution.stringToTreeNode(line);
-        ArrayList arrayList = solution.preOrder(root);
+        List<Integer> integers = solution.preOrder(root);
         ArrayList arrayList1 = solution.inOrder(root);
         ArrayList arrayList2 = solution.lastOrder(root);
-        System.out.println(arrayList.toString());
+        ArrayList arrayList3 = solution.bfs(root);
+        System.out.println(integers.toString());
         System.out.println(arrayList1.toString());
         System.out.println(arrayList2.toString());
+        System.out.println(arrayList3.toString());
     }
 }

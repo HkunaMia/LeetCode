@@ -12,20 +12,24 @@ public class TrieTree {
 
     public class TrieNode {
         public char data;
+//        利用数组存储26位字母
         public TrieNode[] children = new TrieNode[26];
         public boolean isEndingChar = false;
 
         public TrieNode(char data) {
+
             this.data = data;
         }
     }
 
-    private TrieNode root = new TrieNode('/'); // 存储无意义字符
+    // 存储无意义字符,根节点
+    private TrieNode root = new TrieNode('/');
 
     // 往Trie树中插入一个字符串
     public void insert(char[] text) {
         TrieNode p = root;
         for (int i = 0; i < text.length; ++i) {
+//            找到字符对应的下标
             int index = text[i] - 'a';
             if (p.children[index] == null) {
                 TrieNode newNode = new TrieNode(text[i]);
@@ -46,7 +50,7 @@ public class TrieTree {
             }
             p = p.children[index];
         }
-        if (p.isEndingChar == false) return false; // 不能完全匹配，只是前缀
+        if(!p.isEndingChar) return false; // 不能完全匹配，只是前缀
         else return true; // 找到pattern
     }
 

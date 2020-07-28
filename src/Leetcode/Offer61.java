@@ -20,7 +20,7 @@ public class Offer61 {
     public static void main(String[] args) {
         Offer61 offer61 = new Offer61();
         Scanner sc = new Scanner(System.in);
-        String[] s = sc.nextLine().strip().split(" ");
+        String[] s = sc.nextLine().trim().split(" ");
         int[] num = new int[s.length];
         for (int i=0;i<s.length;i++){
             num[i] = Integer.parseInt(s[i]);

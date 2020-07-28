@@ -46,7 +46,7 @@ public class KMP {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        String s = in.nextLine().strip();
+        String s = in.nextLine().trim();
         String pattern = in.nextLine();
         KMP kmp = new KMP();
         int[] next = kmp.getNext(pattern);

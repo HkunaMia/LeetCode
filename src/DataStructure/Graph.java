@@ -30,6 +30,7 @@ public class Graph {
         }
 
 
+//        使用邻接链表进行图的广度优先搜索
     public void bfs(int s, int t) {
         if (s == t) return;
 //        记录顶点是否被访问过
@@ -76,6 +77,8 @@ public class Graph {
     }
 
 
+
+//    深度优先搜索
     boolean found = false; // 全局变量或者类成员变量
 
     public void dfs(int s, int t) {
@@ -90,7 +93,7 @@ public class Graph {
     }
 
     private void recurDfs(int w, int t, boolean[] visited, int[] prev) {
-        if (found == true) return;
+        if (found) return;
         visited[w] = true;
         if (w == t) {
             found = true;

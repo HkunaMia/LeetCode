@@ -2,6 +2,16 @@ package DataStructure;
 
 public class BinarySearchTree {
 
+    public static class Node {
+        private int data;
+        private Node left;
+        private Node right;
+
+        public Node(int data) {
+            this.data = data;
+        }
+    }
+
     private Node tree;
 
 
@@ -79,15 +89,7 @@ public class BinarySearchTree {
         else parent.right = child;
     }
 
-    public static class Node {
-        private int data;
-        private Node left;
-        private Node right;
 
-        public Node(int data) {
-            this.data = data;
-        }
-    }
 }
 
 

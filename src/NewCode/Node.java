@@ -12,6 +12,7 @@ public class Node {
     public Node next;
 
     public Node(int data){
+
         this.value = data;
     }
 }

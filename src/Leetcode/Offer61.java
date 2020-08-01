@@ -2,8 +2,11 @@ package Leetcode;
 
 import java.util.*;
 
+//从扑克牌中随机抽五张，看看是不是顺子
+
 
 public class Offer61 {
+
     public boolean isStraight(int[] nums){
         Set<Integer> set = new HashSet<>();
         int max = 0,min = 14;

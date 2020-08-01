@@ -1,5 +1,7 @@
 package DataStructure;
 
+import Leetcode.Select3;
+
 /**
  * \* Created with IntelliJ IDEA.
  * \* User: Administrator

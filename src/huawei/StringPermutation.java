@@ -2,7 +2,7 @@ package huawei;
 
 import java.util.*;
 
-//c输出所有字符串的排列,offer38题
+//输出所有字符串的排列,offer38题
 
 public class StringPermutation {
 

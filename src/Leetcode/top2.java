@@ -3,7 +3,7 @@ package Leetcode;
 /**
  * @author ：mzr
  * @date ：Created in 2020/5/10 11:07
- * @description：两数相加
+ * @description：链表两数相加
  * @modified By：
  */
 

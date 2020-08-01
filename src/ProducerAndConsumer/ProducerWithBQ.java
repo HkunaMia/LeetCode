@@ -1,6 +1,6 @@
 package ProducerAndConsumer;
 
-import sun.management.snmp.jvminstr.JvmThreadInstanceEntryImpl;
+//import sun.management.snmp.jvminstr.JvmThreadInstanceEntryImpl;
 
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;

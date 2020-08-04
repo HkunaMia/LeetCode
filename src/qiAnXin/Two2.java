@@ -11,7 +11,7 @@ import java.util.Scanner;
  * \* Date: 2020/8/1
  * \* Time: 16:14
  * \* To change this template use File | Settings | File Templates.
- * \* Description:
+ * \* Description:给出一组个位数（有重复），求他们的全排列，输出能被7整除的
  * \
  */
 

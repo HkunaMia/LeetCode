@@ -1,4 +1,4 @@
-package Leetcode;
+package IO;
 
 import java.util.*;
 

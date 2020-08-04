@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8176c49-eadb-4590-af36-70b353c9814c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/TopoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/WeightGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/GroupWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/NumberOfBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/RobotPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Two2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/TrieTree$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/TrieTree$TrieNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/TrieTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/TrieTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Graph.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +43,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.TreeSolution">
-    <configuration name="ConsumerWithBQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProducerAndConsumer.ConsumerWithBQ" />
+  <component name="RunManager" selected="Application.Two2">
+    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiAnXin.One" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProducerAndConsumer.*" />
+          <option name="PATTERN" value="qiAnXin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -45,21 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.MySort" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Myheap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.Myheap" />
+    <configuration name="TopoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.TopoSort" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProducerAndConsumer.consumer" />
+    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiAnXin.Two" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProducerAndConsumer.*" />
+          <option name="PATTERN" value="qiAnXin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Two2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qiAnXin.Two2" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qiAnXin.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Two2" />
+        <item itemvalue="Application.Two" />
+        <item itemvalue="Application.One" />
+        <item itemvalue="Application.TopoSort" />
         <item itemvalue="Application.TreeSolution" />
-        <item itemvalue="Application.ConsumerWithBQ" />
-        <item itemvalue="Application.consumer" />
-        <item itemvalue="Application.MySort" />
-        <item itemvalue="Application.Myheap" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +149,7 @@
       <workItem from="1595944316498" duration="9000" />
       <workItem from="1595944330184" duration="19000" />
       <workItem from="1595944372555" duration="5995000" />
-      <workItem from="1596079673575" duration="4771000" />
+      <workItem from="1596079673575" duration="25511000" />
     </task>
     <task id="LOCAL-00001" summary="7.20">
       <created>1595249894250</created>
@@ -174,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596090076660</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7.31">
+      <created>1596161544147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596161544147</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +218,8 @@
     <MESSAGE value="7.22-2" />
     <MESSAGE value="7.28" />
     <MESSAGE value="7.30" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.30" />
+    <MESSAGE value="7.31" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.31" />
   </component>
   <component name="WindowStateProjectService">
     <state x="255" y="41" key="#Notifications" timestamp="1594697596425">
@@ -210,42 +230,46 @@
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="631" y="125" key="#com.intellij.ide.util.MemberChooser/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1595403512574" />
-    <state x="335" y="4" key="CommitChangelistDialog2" timestamp="1596090075714">
+    <state x="335" y="4" key="CommitChangelistDialog2" timestamp="1596161543365">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state x="335" y="4" key="CommitChangelistDialog2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596090075714" />
-    <state width="1686" height="347" key="GridCell.Tab.0.bottom" timestamp="1595418851769">
+    <state x="335" y="4" key="CommitChangelistDialog2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596161543365" />
+    <state width="1686" height="268" key="GridCell.Tab.0.bottom" timestamp="1596270056548">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="347" key="GridCell.Tab.0.bottom/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1595418851769" />
+    <state width="1686" height="268" key="GridCell.Tab.0.bottom/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056548" />
     <state width="1200" height="223" key="GridCell.Tab.0.bottom/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="347" key="GridCell.Tab.0.center" timestamp="1595418851769">
+    <state width="1686" height="268" key="GridCell.Tab.0.center" timestamp="1596270056547">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="347" key="GridCell.Tab.0.center/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1595418851769" />
+    <state width="1686" height="268" key="GridCell.Tab.0.center/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056547" />
     <state width="1200" height="223" key="GridCell.Tab.0.center/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="347" key="GridCell.Tab.0.left" timestamp="1595418851769">
+    <state width="1686" height="268" key="GridCell.Tab.0.left" timestamp="1596270056547">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="347" key="GridCell.Tab.0.left/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1595418851769" />
+    <state width="1686" height="268" key="GridCell.Tab.0.left/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056547" />
     <state width="1200" height="223" key="GridCell.Tab.0.left/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="347" key="GridCell.Tab.0.right" timestamp="1595418851769">
+    <state width="1686" height="268" key="GridCell.Tab.0.right" timestamp="1596270056548">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="347" key="GridCell.Tab.0.right/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1595418851769" />
+    <state width="1686" height="268" key="GridCell.Tab.0.right/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056548" />
     <state width="1200" height="223" key="GridCell.Tab.0.right/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
     <state x="149" y="27" key="SettingsEditor" timestamp="1593747583626">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="149" y="27" key="SettingsEditor/0.0.1739.978@0.0.1739.978" timestamp="1593747583626" />
-    <state x="362" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596090088551">
+    <state x="362" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596161578802">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state x="362" y="151" key="Vcs.Push.Dialog.v2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596090088551" />
+    <state x="362" y="151" key="Vcs.Push.Dialog.v2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596161578802" />
     <state x="510" y="397" key="com.intellij.ide.util.TipDialog" timestamp="1596079673617">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="510" y="397" key="com.intellij.ide.util.TipDialog/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596079673617" />
     <state x="510" y="397" key="com.intellij.ide.util.TipDialog/0.0.1739.978@0.0.1739.978" timestamp="1593747007846" />
+    <state x="506" y="228" key="git4idea.merge.GitPullDialog" timestamp="1596161567276">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="506" y="228" key="git4idea.merge.GitPullDialog/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596161567276" />
   </component>
 </project>

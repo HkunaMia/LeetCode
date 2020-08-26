@@ -1,7 +1,5 @@
 package DataStructure;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
-import org.omg.CORBA.TRANSACTION_MODE;
 
 import java.util.*;
 

@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8176c49-eadb-4590-af36-70b353c9814c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AiQiYi/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AiQiYi/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AiQiYi/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIDI/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIDI/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/TopoSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/WeightGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/GroupWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/NumberOfBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/RobotPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QiHu360/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QiHu360/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QiHu360/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QiHu360/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QiHu360/Solution22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bilibili/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Two.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qiAnXin/Two2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shunfeng/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shunfeng/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zhaoHang/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DataStructure/Graph.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/IO_input_output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Offer60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Offer61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/offer19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/offer57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/Myheap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Myheap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/TreeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/TreeSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/IO_input_output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/IO_input_output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Offer60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/Offer60.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Offer61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/Offer61.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/offer19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/offer19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/offer57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/offer57.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +53,38 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/QiHu360/Main2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AiQiYi/Solution3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-322">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/QiHu360/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,14 +105,31 @@
         <option value="$PROJECT_DIR$/src/Main3.java" />
         <option value="$PROJECT_DIR$/src/zhaoHang/Main2.java" />
         <option value="$PROJECT_DIR$/src/zhaoHang/Main3.java" />
+        <option value="$PROJECT_DIR$/src/DataStructure/TreeSolution.java" />
+        <option value="$PROJECT_DIR$/src/bilibili/three.java" />
+        <option value="$PROJECT_DIR$/src/Leetcode/GroupWord.java" />
+        <option value="$PROJECT_DIR$/src/qiAnXin/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/qiAnXin/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/shunfeng/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/shunfeng/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/DIDI/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/DIDI/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/QiHu360/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/QiHu360/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/QiHu360/Solution22.java" />
+        <option value="$PROJECT_DIR$/src/AiQiYi/Solution1.java" />
+        <option value="$PROJECT_DIR$/src/AiQiYi/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/AiQiYi/Solution3.java" />
+        <option value="$PROJECT_DIR$/src/QiHu360/Main1.java" />
+        <option value="$PROJECT_DIR$/src/QiHu360/Main2.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="837" />
-    <option name="y" value="9" />
-    <option name="width" value="981" />
-    <option name="height" value="1092" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1104" />
   </component>
   <component name="ProjectId" id="1e9wDlzZudr7qf2BKlmqZ9SJBsA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,14 +155,13 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="zhaoHang" type="462c0819:PsiDirectoryNode" />
+              <item name="QiHu360" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -109,19 +194,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main2">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuanFuDao.Main1" />
+      <option name="MAIN_CLASS_NAME" value="QiHu360.Main1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YuanFuDao.*" />
+          <option name="PATTERN" value="QiHu360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +208,11 @@
       </method>
     </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zhaoHang.Main2" />
+      <option name="MAIN_CLASS_NAME" value="QiHu360.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="zhaoHang.*" />
+          <option name="PATTERN" value="QiHu360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="One2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YuanFuDao.One2" />
+    <configuration name="Solution1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QiHu360.Solution1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="YuanFuDao.*" />
+          <option name="PATTERN" value="QiHu360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +233,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TreeSolution" />
+    <configuration name="Solution2 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QiHu360.Solution2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="QiHu360.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QiHu360.Solution22" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="QiHu360.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +260,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TreeSolution" />
-      <item itemvalue="Application.Main1" />
-      <item itemvalue="Application.One2" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution1 (2)" />
+      <item itemvalue="Application.Solution2 (3)" />
+      <item itemvalue="Application.Solution22" />
       <item itemvalue="Application.Main2" />
+      <item itemvalue="Application.Main1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.One2" />
         <item itemvalue="Application.Main1" />
-        <item itemvalue="Application.TreeSolution" />
+        <item itemvalue="Application.Solution22" />
+        <item itemvalue="Application.Solution2 (3)" />
+        <item itemvalue="Application.Solution1 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +308,9 @@
       <workItem from="1595944372555" duration="373000" />
       <workItem from="1596437626461" duration="6006000" />
       <workItem from="1596597860230" duration="396000" />
+      <workItem from="1596851064362" duration="5745000" />
+      <workItem from="1597560014135" duration="5693000" />
+      <workItem from="1597921630973" duration="20305000" />
     </task>
     <task id="LOCAL-00001" summary="7.20">
       <created>1595249894250</created>
@@ -246,16 +340,24 @@
       <option name="project" value="LOCAL" />
       <updated>1596444370223</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge branch 'master' of https://github.com/HkunaMia/LeetCode&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/LeetCode/DataStructure/Graph.class&#10;#&#9;out/production/LeetCode/DataStructure/TrieTree.class">
+      <created>1596598637325</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596598637325</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9683000" />
+    <option name="totallyTimeSpent" value="41505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22693877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15428571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -326,7 +428,8 @@
     <MESSAGE value="7.22" />
     <MESSAGE value="7.22-2" />
     <MESSAGE value="leetcoede-8.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcoede-8.3" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/HkunaMia/LeetCode&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/LeetCode/DataStructure/Graph.class&#10;#&#9;out/production/LeetCode/DataStructure/TrieTree.class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/HkunaMia/LeetCode&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;out/production/LeetCode/DataStructure/Graph.class&#10;#&#9;out/production/LeetCode/DataStructure/TrieTree.class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="255" y="41" key="#Notifications" />
@@ -389,13 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IO/InputAndOutput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -405,13 +501,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/YuanFuDao.java" />
     <entry file="file://$PROJECT_DIR$/src/YuanFuDao/One2.java" />
-    <entry file="jar://E:/java/jdk-12/lib/src.zip!/java.base/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/zhaoHang/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
@@ -452,10 +541,203 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/TreeSolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/MySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/Myheap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Leetcode/GroupWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiAnXin/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="38" column="47" lean-forward="true" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qiAnXin/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Leetcode/meetingRoom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
+        <state relative-caret-position="611">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/java/jdk-12/lib/src.zip!/java.base/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shunfeng/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#Solution1#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QiHu360/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QiHu360/Solution22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="39" column="35" lean-forward="true" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QiHu360/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DIDI/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1048">
+          <caret line="67" column="35" lean-forward="true" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DIDI/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shunfeng/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="58" selection-end-line="66" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#218#242#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AiQiYi/Solution1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bilibili/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AiQiYi/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AiQiYi/Solution3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-322">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QiHu360/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QiHu360/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
         </state>
       </provider>
     </entry>

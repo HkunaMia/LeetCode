@@ -1,7 +1,6 @@
 package DataStructure;
 
 import IO.InputAndOutput;
-import Leetcode.IO_input_output;
 
 import java.util.Scanner;
 

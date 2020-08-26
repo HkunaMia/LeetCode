@@ -27,6 +27,6 @@ public class GroupWord {
             if(!res.containsKey(s)) res.put(s,new ArrayList());
             res.get(s).add(str);
         }
-        return new ArrayList<>(res.values());
+        return new ArrayList(res.values());
     }
 }

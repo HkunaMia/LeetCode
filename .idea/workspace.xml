@@ -2,15 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8176c49-eadb-4590-af36-70b353c9814c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alibba/Solutions1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChuBao/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HuiWen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/SimpleStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/splitListByTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MeuiTuan/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WangYi/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xiecheng/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Xiecheng/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZiJie/Solution4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/huawei/Soluton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jindong/HuiWen2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/Myheap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/Myheap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/IO_input_output.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO/IO_input_output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Offer60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/Offer60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Offer61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/Offer61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/offer19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/offer19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/offer57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Offer/offer57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qiAnXin/Two2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qiAnXin/Two2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/IO_input_output.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Offer60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/Offer61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/offer19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Leetcode/offer57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/MySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/MySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/GroupWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/GroupWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -38,15 +51,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Application.Two2">
-    <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiAnXin.One" />
+  <component name="RunManager" selected="Application.Main3">
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChuBao.Main3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiAnXin.*" />
+          <option name="PATTERN" value="ChuBao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TopoSort" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Xiecheng.Solution1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="Xiecheng.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.TreeSolution" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MeuiTuan.Solution3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="MeuiTuan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiAnXin.Two" />
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZiJie.Solution4" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiAnXin.*" />
+          <option name="PATTERN" value="ZiJie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Two2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiAnXin.Two2" />
+    <configuration name="Soluton1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei.Soluton1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiAnXin.*" />
+          <option name="PATTERN" value="huawei.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Two2" />
-        <item itemvalue="Application.Two" />
-        <item itemvalue="Application.One" />
-        <item itemvalue="Application.TopoSort" />
-        <item itemvalue="Application.TreeSolution" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Solution4" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Soluton1" />
+        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +159,14 @@
       <workItem from="1595944316498" duration="9000" />
       <workItem from="1595944330184" duration="19000" />
       <workItem from="1595944372555" duration="5995000" />
-      <workItem from="1596079673575" duration="25848000" />
+      <workItem from="1596079673575" duration="36524000" />
+      <workItem from="1596714340996" duration="5595000" />
+      <workItem from="1597026735013" duration="2182000" />
+      <workItem from="1597132589580" duration="12087000" />
+      <workItem from="1597488929964" duration="4364000" />
+      <workItem from="1597717669501" duration="1676000" />
+      <workItem from="1597835382680" duration="20716000" />
+      <workItem from="1598357915527" duration="1690000" />
     </task>
     <task id="LOCAL-00001" summary="7.20">
       <created>1595249894250</created>
@@ -197,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596511302935</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="8.4-2">
+      <created>1596511637461</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596511637461</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +251,8 @@
     <MESSAGE value="7.30" />
     <MESSAGE value="7.31" />
     <MESSAGE value="8.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="8.4" />
+    <MESSAGE value="8.4-2" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.4-2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="255" y="41" key="#Notifications" timestamp="1594697596425">
@@ -239,46 +267,51 @@
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="599" y="346" width="541" height="300" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596511354867" />
-    <state x="335" y="4" key="CommitChangelistDialog2" timestamp="1596511301323">
+    <state x="335" y="4" key="CommitChangelistDialog2" timestamp="1596511636179">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state x="335" y="4" key="CommitChangelistDialog2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596511301323" />
-    <state width="1686" height="268" key="GridCell.Tab.0.bottom" timestamp="1596270056548">
+    <state x="335" y="4" key="CommitChangelistDialog2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596511636179" />
+    <state width="1686" height="268" key="GridCell.Tab.0.bottom" timestamp="1598360246298">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="268" key="GridCell.Tab.0.bottom/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056548" />
+    <state width="1686" height="268" key="GridCell.Tab.0.bottom/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1598360246298" />
     <state width="1200" height="223" key="GridCell.Tab.0.bottom/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="268" key="GridCell.Tab.0.center" timestamp="1596270056547">
+    <state width="1686" height="268" key="GridCell.Tab.0.center" timestamp="1598360246297">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="268" key="GridCell.Tab.0.center/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056547" />
+    <state width="1686" height="268" key="GridCell.Tab.0.center/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1598360246297" />
     <state width="1200" height="223" key="GridCell.Tab.0.center/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="268" key="GridCell.Tab.0.left" timestamp="1596270056547">
+    <state width="1686" height="268" key="GridCell.Tab.0.left" timestamp="1598360246295">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="268" key="GridCell.Tab.0.left/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056547" />
+    <state width="1686" height="268" key="GridCell.Tab.0.left/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1598360246295" />
     <state width="1200" height="223" key="GridCell.Tab.0.left/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state width="1686" height="268" key="GridCell.Tab.0.right" timestamp="1596270056548">
+    <state width="1686" height="268" key="GridCell.Tab.0.right" timestamp="1598360246297">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state width="1686" height="268" key="GridCell.Tab.0.right/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596270056548" />
+    <state width="1686" height="268" key="GridCell.Tab.0.right/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1598360246297" />
     <state width="1200" height="223" key="GridCell.Tab.0.right/0.0.1739.978@0.0.1739.978" timestamp="1593747591640" />
-    <state x="149" y="27" key="SettingsEditor" timestamp="1593747583626">
+    <state x="214" y="68" key="SettingsEditor" timestamp="1596718534467">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
+    <state x="214" y="68" key="SettingsEditor/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596718534467" />
     <state x="149" y="27" key="SettingsEditor/0.0.1739.978@0.0.1739.978" timestamp="1593747583626" />
-    <state x="362" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596511312266">
+    <state x="362" y="151" key="Vcs.Push.Dialog.v2" timestamp="1596511645531">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state x="362" y="151" key="Vcs.Push.Dialog.v2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596511312266" />
-    <state x="510" y="397" key="com.intellij.ide.util.TipDialog" timestamp="1596079673617">
+    <state x="362" y="151" key="Vcs.Push.Dialog.v2/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596511645531" />
+    <state x="510" y="397" key="com.intellij.ide.util.TipDialog" timestamp="1597836063771">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
-    <state x="510" y="397" key="com.intellij.ide.util.TipDialog/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596079673617" />
+    <state x="510" y="397" key="com.intellij.ide.util.TipDialog/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1597836063771" />
     <state x="510" y="397" key="com.intellij.ide.util.TipDialog/0.0.1739.978@0.0.1739.978" timestamp="1593747007846" />
     <state x="506" y="228" key="git4idea.merge.GitPullDialog" timestamp="1596161567276">
       <screen x="0" y="0" width="1739" height="978" />
     </state>
     <state x="506" y="228" key="git4idea.merge.GitPullDialog/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1596161567276" />
+    <state x="448" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1597839705533">
+      <screen x="0" y="0" width="1739" height="978" />
+    </state>
+    <state x="448" y="-1" width="840" height="1034" key="search.everywhere.popup/-900.0.815.1449/0.0.1739.978@0.0.1739.978" timestamp="1597839705533" />
   </component>
 </project>

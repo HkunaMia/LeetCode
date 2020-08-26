@@ -11,7 +11,7 @@ import java.util.Scanner;
  * \* Date: 2020/7/20
  * \* Time: 16:33
  * \* To change this template use File | Settings | File Templates.
- * \* Description:
+ * \* Description:快排和归并
  * \
  */
 
